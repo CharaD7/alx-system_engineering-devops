@@ -1,0 +1,2 @@
+0       string      SCHOOL    School data        !:mime      application/octet-stream
+0       regex/c     =^[a-z]+=[a-z0-9]+     Text file        !:mime    text/plain
