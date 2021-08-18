@@ -1,4 +1,4 @@
-0       string      SCHOOL    School data        !:mime      School
+0       string      SCHOOL    School data        !:school      School
 0       regex/c     =^[a-z]+=[a-z0-9]+        !:mime      application/octet-stream
 0       regex/c     =^[a-z]+=[a-z0-9]+     Text file        !:mime    text/plain
 0       regex/c     =^[a-z]+=[a-z0-9]+     Inode file        !:mime    inode/x-empty
