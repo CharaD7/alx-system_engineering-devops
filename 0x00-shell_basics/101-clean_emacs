@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -rf *[Aa-Zz]~
+rm -rf *[A-Z][a-z]~
